@@ -1,0 +1,14 @@
+.previewList {
+  width: 100%;
+  margin: auto;
+  .title {
+    font-size: 28px;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  .itemList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+}
